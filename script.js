@@ -1,3 +1,4 @@
+<!--
 const options = {
   root: null, // viewport
   rootMargin: "0px",
@@ -19,3 +20,4 @@ const titleList = document.querySelectorAll('h2');
 
 // 반복문을 돌려 모든 DOM에 적용
 titleList.forEach(el => observer.observe(el));
+-->
